@@ -1,0 +1,76 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family:sans-serif;
+    box-sizing: border-box;
+}
+
+
+#sidebar1 {
+    position:fixed;
+    height: 100%;
+	width:20%;
+    background: #fff;
+    left:0px;
+    transition: all 500ms linear;
+}
+
+
+#sidebar1 ul li {
+    color: #2c2e2f;
+    list-style: none;
+    padding:15px 10px;
+}
+
+
+#sidebar2 {
+    position:fixed;
+    height: 100%;
+	width:20%;
+    background: #fff;
+    right:0px;
+}
+
+#putinPhoto {
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+
+#logoG {
+    margin-left: 8%;
+    margin-top: 5%;
+}
+
+
+#textPutin {
+
+    margin-top: 10%;
+    text-align: center;
+    font-size:20px;
+}
+
+#formatM {
+    font-size:25px;
+}
+
+#party {
+    font-size:17px;
+    margin-top: 20%;
+}
+
+#salary {
+    font-size:30px;
+    color: #fe8a9d;   
+}
+
+#chartContainer {
+    margin-left: 25%;
+}
+
+#title {
+    font-size:30px;
+    color: #000000;
+    margin-left: 40%;  
+    margin-bottom: 2.5%;
+}
